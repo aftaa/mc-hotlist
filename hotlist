@@ -1,7 +1,3 @@
-GROUP "etc"
-  ENTRY "/etc/nginx" URL "/etc/nginx"
-ENDGROUP
-GROUP "var"
-  ENTRY "/var/www" URL "/var/www"
-  ENTRY "/var/log" URL "/var/log"
-ENDGROUP
+ENTRY "/etc/nginx" URL "/etc/nginx"
+ENTRY "/var/log" URL "/var/log"
+ENTRY "/var/www" URL "/var/www"
