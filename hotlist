@@ -3,4 +3,5 @@ GROUP "etc"
 ENDGROUP
 GROUP "var"
   ENTRY "/var/www" URL "/var/www"
+  ENTRY "/var/log" URL "/var/log"
 ENDGROUP
