@@ -1,3 +1,5 @@
 ENTRY "/etc/nginx" URL "/etc/nginx"
 ENTRY "/var/log" URL "/var/log"
 ENTRY "/var/www" URL "/var/www"
+ENTRY "/etc/ssh" URL "/etc/ssh"
+ENTRY "/var/lib/mysql" URL "/var/lib/mysql"
